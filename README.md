@@ -1,0 +1,1 @@
+This is Shaz-set’s first git project!
